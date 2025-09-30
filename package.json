@@ -1,7 +1,7 @@
 {
   "name": "interactive-ui-cooking-guide",
   "version": "1.0.0",
-  "description": "An interactive cooking guide with recipes, filtering, and step-by-step instructions.",
+  "description": "An interactive cooking guide featuring diverse recipes, dynamic filtering options, and step-by-step cooking instructions.",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
